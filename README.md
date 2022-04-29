@@ -1,4 +1,4 @@
-# Roblox-Item-Scraper
+# Roblox-Item-Info-Scraper
 
 Setup:
 
