@@ -1,4 +1,10 @@
 try:
+    import os
+    from os import system
+    system("title " + "Roblox Info Scraper")
+except:
+    pass
+try:
     import requests
     import colorama
 except Exception:
