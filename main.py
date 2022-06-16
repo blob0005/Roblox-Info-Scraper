@@ -1,7 +1,7 @@
 try:
     import os
     from os import system
-    system("title " + "Roblox Info Scraper")
+    system("title " + "Roblox Info Scraper,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 try:
